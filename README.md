@@ -1,1 +1,1 @@
-# Tailwind
+# Tailwind styles
